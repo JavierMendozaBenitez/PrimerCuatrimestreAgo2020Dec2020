@@ -1,0 +1,144 @@
+# depslib dependency file v1.0
+1606511841 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\segundo parcial practica\practica parcial 2\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1606510115 c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\segundo parcial practica\practica parcial 2\linkedlist.h
+
+1606504059 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\segundo parcial practica\practica parcial 2\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1606504528 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\segundo parcial practica\practica parcial 2\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+
+1606504220 c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\segundo parcial practica\practica parcial 2\employee.h
+	"LinkedList.h"
+
+1606511697 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\segundo parcial practica\practica parcial 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Employee.h"
+	"validaciones.h"
+
+1602479099 c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\segundo parcial practica\practica parcial 2\validaciones.h
+
+1606517619 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\parcial 2\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1606510115 c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\parcial 2\linkedlist.h
+
+1606515968 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\parcial 2\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1606523591 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\parcial 2\epais.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ePais.h"
+
+1606523591 c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\parcial 2\epais.h
+	"LinkedList.h"
+
+1606524335 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\parcial 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"ePais.h"
+	"validaciones.h"
+	"Controller.h"
+
+1602479099 c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\parcial 2\validaciones.h
+
+1606522168 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\parcial 2\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"ePais.h"
+	"parser.h"
+
+1605456152 c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\parcial 2\parser.h
+
+1606523931 c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\parcial 2\controller.h
+
+1606523832 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\parcial 2\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"LinkedList.h"
+	"ePais.h"
+	"parser.h"
+	"validaciones.h"
+
+1606523832 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\parcial 2\mendoza.javier.splabi.1g\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"LinkedList.h"
+	"ePais.h"
+	"parser.h"
+	"validaciones.h"
+
+1606510115 c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\parcial 2\mendoza.javier.splabi.1g\linkedlist.h
+
+1606523591 c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\parcial 2\mendoza.javier.splabi.1g\epais.h
+	"LinkedList.h"
+
+1605456152 c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\parcial 2\mendoza.javier.splabi.1g\parser.h
+
+1602479099 c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\parcial 2\mendoza.javier.splabi.1g\validaciones.h
+
+1606523591 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\parcial 2\mendoza.javier.splabi.1g\epais.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ePais.h"
+
+1606517619 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\parcial 2\mendoza.javier.splabi.1g\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1606524335 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\parcial 2\mendoza.javier.splabi.1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"ePais.h"
+	"validaciones.h"
+	"Controller.h"
+
+1606523931 c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\parcial 2\mendoza.javier.splabi.1g\controller.h
+
+1606524410 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\parcial 2\mendoza.javier.splabi.1g\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"ePais.h"
+	"parser.h"
+
+1606515968 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\parcial 2\mendoza.javier.splabi.1g\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+

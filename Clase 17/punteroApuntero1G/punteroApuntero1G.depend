@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1605292236 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\clase 17\punteroapuntero1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	"empleado.h"
+
+1605292181 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\clase 17\punteroapuntero1g\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+
+1604364923 c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\clase 17\punteroapuntero1g\empleado.h
+

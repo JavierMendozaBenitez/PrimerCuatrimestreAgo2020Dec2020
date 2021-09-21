@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1604298761 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\clase 16 curso pasado\dinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"personas.h"
+
+1604298093 c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\clase 16 curso pasado\dinamica\personas.h
+
+1604298237 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\clase 16 curso pasado\dinamica\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"personas.h"
+

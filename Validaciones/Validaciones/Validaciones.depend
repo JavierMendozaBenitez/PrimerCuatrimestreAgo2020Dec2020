@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1602479119 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\validaciones\validaciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"validaciones.h"
+
+1602480368 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\validaciones\validaciones\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1602479099 c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\validaciones\validaciones\validaciones.h
+

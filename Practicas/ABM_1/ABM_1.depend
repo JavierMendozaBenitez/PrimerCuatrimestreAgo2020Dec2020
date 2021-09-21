@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1602541617 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\practicas\abm_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"dataStore.h"
+
+1602526806 c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\practicas\abm_1\datastore.h
+

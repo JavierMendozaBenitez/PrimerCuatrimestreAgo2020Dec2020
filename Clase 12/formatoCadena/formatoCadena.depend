@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1601935929 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\clase 12\formatocadena\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

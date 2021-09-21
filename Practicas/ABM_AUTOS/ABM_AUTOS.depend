@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1602880248 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\practicas\abm_autos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"servicio.h"
+	"marca.h"
+	"auto.h"
+	"color.h"
+	"trabajo.h"
+
+1602818009 c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\practicas\abm_autos\datastore.h
+
+1602883346 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\practicas\abm_autos\auto.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"dataStore.h"
+	"auto.h"
+	"color.h"
+	"marca.h"
+	"validaciones.h"
+
+1602867253 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\practicas\abm_autos\color.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"color.h"
+
+1602667001 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\practicas\abm_autos\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"fecha.h"
+	"trabajo.h"
+
+1602867851 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\practicas\abm_autos\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"trabajo.h"
+	"servicio.h"
+	"marca.h"
+	"color.h"
+	"fecha.h"
+	"auto.h"
+
+1602861174 c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\practicas\abm_autos\auto.h
+	"marca.h"
+	"color.h"
+
+1602867447 c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\practicas\abm_autos\color.h
+
+1602653963 c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\practicas\abm_autos\fecha.h
+
+1602665112 c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\practicas\abm_autos\trabajo.h
+	"fecha.h"
+	"servicio.h"
+	"marca.h"
+	"color.h"
+	"auto.h"
+
+1602867713 c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\practicas\abm_autos\servicio.h
+
+1602866692 c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\practicas\abm_autos\marca.h
+
+1602867715 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\practicas\abm_autos\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"servicio.h"
+	"trabajo.h"
+
+1602866700 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\practicas\abm_autos\marca.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"marca.h"
+
+1602479099 c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\practicas\abm_autos\validaciones.h
+
+1602881972 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\practicas\abm_autos\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"validaciones.h"
+

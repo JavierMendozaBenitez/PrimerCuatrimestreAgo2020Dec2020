@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1601688101 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\clase 11\menubauss\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"dataStore.h"
+	<string.h>
+
+1601682991 c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\clase 11\menubauss\datastore.h
+
+1602311622 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\clase 11\menubaus\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"persona.h"
+	"deporte.h"
+
+1602144247 c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\clase 11\menubaus\datastore.h
+
+1601942239 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\clase 11\menubaus\fecha.c
+	<stdio.h>
+	"fecha.h"
+
+1602140675 c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\clase 11\menubaus\fecha.h
+
+1602142597 c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\clase 11\menubaus\persona.h
+	"fecha.h"
+	"deporte.h"
+
+1602309492 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\clase 11\menubaus\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"persona.h"
+	"dataStore.h"
+
+1602144376 c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\clase 11\menubaus\deporte.h
+
+1602144807 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\clase 11\menubaus\deporte.c
+	<stdio.h>
+	"deporte.h"
+

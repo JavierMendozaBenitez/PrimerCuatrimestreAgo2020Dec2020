@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604518016 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\clase 17 curso pasado\file2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604701828 source:c:\users\javier\downloads\punterofuncion1g\main.c
+	<stdio.h>
+	<stdlib.h>
+

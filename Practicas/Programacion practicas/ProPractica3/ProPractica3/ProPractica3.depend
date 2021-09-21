@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1603139384 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\practicas\programacion practicas\propractica2\propractica3\propractica3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+

@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1601688101 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\clase 11\menubauss\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"dataStore.h"
+	<string.h>
+
+1601682991 c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\clase 11\menubauss\datastore.h
+
+1603480300 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\clase 11\menubaus\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"persona.h"
+	"deporte.h"
+	"fecha.h"
+	"comida.h"
+	"almuerzo.h"
+
+1602144247 c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\clase 11\menubaus\datastore.h
+
+1601942239 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\clase 11\menubaus\fecha.c
+	<stdio.h>
+	"fecha.h"
+
+1602140675 c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\clase 11\menubaus\fecha.h
+
+1603257206 c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\clase 11\menubaus\persona.h
+	"fecha.h"
+	"deporte.h"
+
+1603257808 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\clase 11\menubaus\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"persona.h"
+	"dataStore.h"
+
+1602144376 c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\clase 11\menubaus\deporte.h
+
+1602866692 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\clase 11\menubaus\deporte.c
+	<stdio.h>
+	"deporte.h"
+
+1602615229 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\practicas\abm_autos\marca.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"marca.h"
+
+1602615253 c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\practicas\abm_autos\marca.h
+
+1603259370 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\clase 11\menubaus\almuerzo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"almuerzo.h"
+
+1603256292 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\clase 11\menubaus\comida.c
+	<stdio.h>
+	<string.h>
+	"comida.h"
+
+1603256044 c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\clase 11\menubaus\comida.h
+
+1603257210 c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\clase 11\menubaus\almuerzo.h
+	"fecha.h"
+	"persona.h"
+	"comida.h"
+	"deporte.h"
+

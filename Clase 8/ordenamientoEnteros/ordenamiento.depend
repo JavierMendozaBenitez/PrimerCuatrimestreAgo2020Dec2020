@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1600132656 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\clase 7\ordenamiento\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1600469262 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\clase 8\ordenamientoenteros\main.c
+	<stdio.h>
+	<stdlib.h>
+	"prueba.h"
+
+1600466127 c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\clase 8\ordenamientoenteros\prueba.h
+	<stdio.h>
+	<stdlib.h>
+

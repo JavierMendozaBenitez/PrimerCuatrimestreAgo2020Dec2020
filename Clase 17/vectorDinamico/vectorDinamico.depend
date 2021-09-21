@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1604359423 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\clase 17\vectordinamico\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+
+1604358194 c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\clase 17\vectordinamico\empleado.h
+
+1604359359 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\clase 17\vectordinamico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+

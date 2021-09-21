@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1598920630 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\c3e1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1599523446 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\test\clase 5\menudeopcionesclase5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
